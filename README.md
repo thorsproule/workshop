@@ -4,4 +4,4 @@
 
 ### Thor Sproule
 
-[Blumenstock Response]
+[Blumenstock Response](https://github.com/thorsproule/workshop/blob/master/blumenstock.md)(Jan.27)
