@@ -4,3 +4,4 @@
 
 ### Thor Sproule
 
+[Blumenstock Response]
