@@ -9,4 +9,4 @@
 
 [Jahan and Rosling Response](https://github.com/thorsproule/workshop/blob/master/jahanrosling.md) (Feb.3)
 
-[Barder Response Questions](
+[Barder Response Questions](https://github.com/thorsproule/workshop/blob/master/barder.md) (Feb.17)
