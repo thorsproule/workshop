@@ -10,3 +10,6 @@
 [Jahan and Rosling Response](https://github.com/thorsproule/workshop/blob/master/jahanrosling.md) (Feb.3)
 
 [Barder Response Questions](https://github.com/thorsproule/workshop/blob/master/barder.md) (Feb.17)
+
+## Assignments
+[Assignment 1](https://github.com/thorsproule/workshop/blob/master/annotatedbib.md) (Feb.23)
