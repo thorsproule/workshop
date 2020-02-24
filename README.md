@@ -11,5 +11,7 @@
 
 [Barder Response Questions](https://github.com/thorsproule/workshop/blob/master/barder.md) (Feb.17)
 
+[Anderson and Kitchin Response](
+
 ## Assignments
 [Assignment 1](https://github.com/thorsproule/workshop/blob/master/annotatedbib.md) (Feb.23)
