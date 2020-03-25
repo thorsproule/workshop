@@ -1,0 +1,9 @@
+The technique that is used throughout this article is the “Random Forest” technique. This method is used to calculate the population density of certain areas. In order to calculate the density, land cover areas are taken into account. The types of land cover are forested areas and plants or types of urban cover like buildings and roads. The types of land cover are combined with pre-existing census data to predict the population density of the areas.
+
+A machine learning method is when the program is designed to interpret and make better predictions by calculating data and comparing it to set aside data. Random Forest’s machine learning method differs from classical statistical approaches because it provides a higher resolution approach and can tell where the population actually lives.
+
+The geospatial covariates that were used are things like tree cover, water, urban area, industrial area, etc.. They represented grid cells with an area of a square kilometer with over a million grid cells in each country. The significance of big data in estimation for machine learning is that with a larger data set, programs would be able to compute even more possibilities.  
+
+The significance of having a highly detailed and accurate description of every person on earth is that population counts can be more accurate. With this, census and population counts will be more beneficial to the countries they represent. Being able to locate where groups of people are located also allows for services to be more beneficial to more people.
+
+Within the context of human development, and my investigation of migration in the Caribbean post disaster in particular, highly accurate population counts will be able to show where people are located. This would allow for us to see where people are before a disaster happens and then where they move following a disaster. This allows for aid to be dispersed better. 
