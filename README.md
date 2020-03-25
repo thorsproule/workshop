@@ -13,7 +13,7 @@
 
 [Anderson and Kitchin Response](https://github.com/thorsproule/workshop/edit/master/anderson_kitchin) (Feb.24)
 
-[Stevens et al. Response](
+[Stevens et al. Response](https://github.com/thorsproule/workshop/blob/master/stevens.md) (Mar.25)
 
 ## Assignments
 [Assignment 1](https://github.com/thorsproule/workshop/blob/master/annotatedbib.md) (Feb.23)
